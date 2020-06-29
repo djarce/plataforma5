@@ -10,6 +10,6 @@ Acá van a encontrar mis resoluciones a los ejercicios del Módulo Introductorio
 # Links 
 ___
 - Clase 1:
- - Crear un blog. [Gatoterapia](https://tender-pasteur-35d527.netlify.app/)
+   - Crear un blog. [Gatoterapia](https://tender-pasteur-35d527.netlify.app/)
 - Clase 2:
- - Proyecto: elige tu propia aventura. [Unas vacaciones de locos](https://ecstatic-wozniak-dc471e.netlify.app/index.html)
+   - Proyecto: elige tu propia aventura. [Unas vacaciones de locos](https://ecstatic-wozniak-dc471e.netlify.app/index.html)
