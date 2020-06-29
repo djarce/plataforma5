@@ -1,0 +1,24 @@
+body{
+    background-color: #f6e0b5;
+    text-align: center;
+}
+h1, p{
+    color: #66545e;
+}
+h1{
+    text-transform: uppercase;
+    margin: 1.5%;
+    padding: 2.5%;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    border: solid 2px #000000;
+    border-radius: 50%;
+}
+p{
+    margin: 2.5%;
+}
+a{
+    color: #aa6f73;
+}

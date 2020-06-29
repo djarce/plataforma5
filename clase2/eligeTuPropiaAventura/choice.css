@@ -1,0 +1,36 @@
+body{
+    background-color: #f5f2b8;
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+h1{
+    margin: 1.5%;
+    text-decoration: underline;
+    
+}
+img{
+    max-width: 100%;
+    height: auto;
+    border: solid 2px #000000 ;
+}
+p{
+    margin: 2.5%;
+}
+button{
+    width: 5em;
+    height: 5em;
+    margin: 2%;
+    padding: 1.5%;
+}
+.pregunta{
+    font-weight: bolder;
+}
+.si{
+    background-color: #b0e68c;
+    border-radius: 25%;
+}
+.no{
+    background-color: #e68c8c;
+    border-radius: 25%;
+}
