@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PetBook</title>
+</head>
+<body>
+    <h1>Bienvenide a PetBook</h1>
+    <p>PetBook es el lugar para que tu compañere no humane pueda socializar.
+    Es el lugar que todes estabamos esperando...</p>
+    <form action="https://formspree.io/mleppbee" method="POST">
+        <label>Nombre de tu mascota: 
+            <input type="text"
+            name="nombre"
+            placeholder="Nombre" required></label>
+        <br>
+        <label for="edadMascota">Edad de tu mascota:</label> 
+            <input type="number"
+            id="edadMascota"
+            name="edad"
+            placeholder="Edad" required>
+        <br>    
+        <label>E-mail:
+            <input type="email"
+            name="email"
+            placeholder="tu@email.com" required>
+        </label>
+        <br>
+        <label for="contraseña">Contraseña:</label>
+            <input type="password"
+            id="contraseña"
+            name="password"
+            placeholder="Contraseña" required>
+        <br>    
+        <label>Elige el color de tu mascota:</label>
+            <input type="color" required>
+        <br>
+        <span>Selecciona el género de tu mascota:</span>
+        <label>Hembra</label>
+            <input type="radio"
+            name="genero"
+            value="hembra">
+        <label>Macho</label>
+            <input type="radio"
+            name="genero"
+            value="macho">
+        <br>
+        <label for="">
+            Tipo de mascota:
+            <select name="tipoDeMascota" id="">
+                <option value="perro">Perro</option>
+                <option value="gato">Gato</option>
+                <option value="cobayo">Cobayo</option>
+                <option value="reptil">Lagartija</option>
+                <option value="otro">Otro</option>
+            </select>
+        </label>
+        <br>
+        <label for="">Acepto las bases y condiciones</label>
+        <input type="checkbox" name="basesYCondiciones" value="Acepta" required>
+        <br>
+        <label for="">Contanos como es tu mascota:</label>
+        <br>
+        <textarea name="comentarios"
+        id="" 
+        cols="40" 
+        rows="10"></textarea>
+        <br>
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>

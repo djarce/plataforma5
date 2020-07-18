@@ -1,0 +1,238 @@
+.container-fluid{
+    padding: 0;
+}
+.navbar{
+    padding: .01rem 9rem;
+    font-size: smaller;
+}
+.nav-link{
+    padding: .8rem;
+}
+.fa-question-circle{
+    color: #8a8a8d;
+}
+.btn-outline-secondary{
+    background-color: white;
+    color: black;
+    font-weight: 400;
+}
+.btn-outline-secondary:hover{
+    background-color: #dee0de;
+    color: black;
+}
+.active{
+    background-color: #dee0de;
+}
+.dropdown-menu{
+    padding: .2rem 0;
+}
+.dropdown-item{
+    padding: .1rem .9rem;
+}
+.dropdown-item:hover{
+    background-color: #326ba9;
+    color: white;
+}
+.row{
+    justify-content: center;
+}
+.primera{
+    margin-top: 1.5%;
+}
+.card{
+    padding: 0.5% 0.5% 3% 0.5%;
+    margin: .5% 2% 1% 1%;
+    max-width: 21%;
+}
+.card-body{
+    margin: .1rem;
+    padding: .2rem;
+}
+.card-text{
+    font-size: smaller;
+}
+.libro{
+    min-width: 100px;
+    max-width: 100px;
+    min-height: 150px;
+    max-height: 150px;
+    align-self: center;
+}
+.disco{
+    min-width: 150px;
+    max-width: 150px;
+    min-height: 150px;
+    max-height: 150px;
+    align-self: center;
+}
+.disabledcard{
+    border: none;
+}
+.agregarProductos{
+    width: 40%;
+} 
+form{
+    margin: 3%;
+    line-height: .3;
+    justify-items: left;
+}
+.custom-select{
+    height: calc(1.5em + .5rem + 2px);
+    padding: .25rem .5rem;
+    font-size: .875rem;
+    line-height: 1.5;
+    border-radius: .2rem;
+}
+.btn-primary{
+    background-color: #326ba9;
+    border-color: #326ba9;
+}
+.col-auto{
+    padding-left: 0%;
+}
+.card-footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: small;
+    padding: 8px 15px;
+}
+.mercado{
+    color: #8a8a8d;
+    font-weight: bold;
+}
+.mercado:hover{
+    color: #6e6e6e;
+}
+.jumbotron-fluid{
+    background-image: url(img/fondoLanding.jpg);
+    height: 60vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 0;
+}
+.jumboContent{
+    margin-left: 2%;
+    padding: 9%;
+}
+.aVerTodo{
+    color: black;
+    text-decoration: none;
+}
+.aVerTodo:hover{
+    color: black;
+    text-decoration: none;
+}
+.bold{
+    font-weight: 600;
+}
+.notSoBold{
+    font-weight: 400;
+    font-size: 3rem;
+    padding-bottom: 1.2rem;
+}
+.footerLanding{
+    background: none;
+    height: 50vh;
+}
+.row{
+    margin: 0;
+}
+.card-body{
+    text-align: left;
+}
+.cardTitleFooter{
+    color: black;
+    font-size: large;
+}
+.cardTextFooter{
+    color: black;
+    font-size: inherit;
+}
+.card-footer{
+    padding: 0;
+}
+.spacing{
+    margin: 0;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+}
+.stores{
+    background-color: #25aef7;
+    padding: .2rem;
+}
+.texto{
+    text-align: center;
+    line-height: .5rem;
+    padding: 1.2rem;
+}
+.boton{
+    text-align: left;
+    padding: .2rem;
+}
+.icons{
+    background-color: #f8f9fa; 
+    padding: 4rem;
+}
+.google{
+    min-width: 8.9rem;
+    max-width: 8.9rem;
+    min-height: 3rem;
+    max-height: 3rem;
+}
+.apple{
+    min-width: 9.8rem;
+    max-width: 9.8rem;
+    min-height: 3.75rem;
+    max-height: 3.75rem;
+}
+.iconoFooter{
+    min-width: 6rem;
+    max-width: 6rem;
+    min-height: 6rem;
+    max-height: 6rem;
+}
+.bottomFooter{
+    padding: 2% 2% 2% 8%;
+    margin: 0%;
+    text-align: left;
+    background-color: #f8f9fa;
+}
+@media(max-width: 576px){
+    .navbar{
+        padding: .5rem;
+    }
+    .card{
+        padding: 0.5% 0.5% 3% 0.5%;
+        margin: .5% 2% 1% 1%;
+        max-width: 80%;
+    }
+    .agregarProductos{
+        width: 90%;
+    } 
+    form{
+        margin: 5%;
+        line-height: .9;
+    }
+    .jumbotron-fluid{
+        background-color: #f8f9fa;
+        background-image: none;
+    }
+    .mover{
+        display: inline;
+        margin-right: .3rem;
+    }
+    .footerLanding{
+        justify-content: center;
+    }
+    .boton{
+        text-align: center;
+    }
+    .card-body{
+        text-align: center;
+        padding: 2rem;
+    }
+}
+

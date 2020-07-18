@@ -1,0 +1,58 @@
+body{
+    background-color: #326273;
+}
+h1{
+    color:rgb(227,151,116);
+}
+h2{
+    color: #EEEEEE;
+}
+li{
+    background-color: #005522;
+}
+#bordeado{
+    border: 3px solid red;
+}
+.aloha{
+   background-color: #BFAB25;
+}
+input{
+    border: 2px dashed lime;
+}
+div>p{
+    font-size: 300%;
+}
+input[type="text"]{
+    background-color: yellow;
+}
+a:visited{
+    color: #00ff00;
+}
+div:nth-of-type(3){
+    background-color: #0000ff;
+}
+p:hover{
+    color: #ff0000;
+}
+button[type="active"]{
+    background-color: #f4f000;
+}
+input[type="text"]:focus{
+    border: 5px solid #00ff00;
+}
+#bordeBlanco{
+    border: 4px solid white;
+  }
+#spanBlanco{
+    background-color: white;
+}  
+input:checked{
+    margin-left: 60px;
+}
+label{
+    text-transform: uppercase;
+}
+#ultimo::first-letter{
+    font-size: 400%;
+    background-color: red;
+}

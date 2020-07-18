@@ -1,0 +1,17 @@
+#container{
+    width: 80%;
+    margin: 0 auto;
+}
+img{
+    width: 30%;
+    margin: 1%;
+}
+p{
+    margin-left: 1%;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    border-bottom: 2px solid red;
+    padding-bottom: 0.1%;
+    width: 43%;
+}

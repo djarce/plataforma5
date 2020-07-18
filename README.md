@@ -12,4 +12,6 @@ ___
 - Clase 1:
    - Crear un blog. [Gatoterapia](https://tender-pasteur-35d527.netlify.app/)
 - Clase 2:
-   - Proyecto: elige tu propia aventura. [Unas vacaciones de locos](https://ecstatic-wozniak-dc471e.netlify.app/index.html)
+   - Proyecto: elige tu propia aventura. [Unas vacaciones de locos](https://ecstatic-wozniak-dc471e.netlify.app/)
+- Clase 6:
+   - Webstore Hackaton. [Mercado Santi](https://elastic-feynman-9cdfa8.netlify.app/)
