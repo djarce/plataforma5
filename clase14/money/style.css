@@ -1,0 +1,17 @@
+#container {
+  margin: 0 auto;
+  width: 93%;
+  justify-content: center;
+}
+button {
+  margin-top: 10vh;
+  width: 30vw;
+  height: 20vh;
+}
+img {
+  width: 100%;
+  height: 60vh;
+}
+.oculto {
+  display: none;
+}
