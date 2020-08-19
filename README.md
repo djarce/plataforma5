@@ -15,3 +15,5 @@ ___
    - Proyecto: elige tu propia aventura. [Unas vacaciones de locos](https://ecstatic-wozniak-dc471e.netlify.app/)
 - Clase 6:
    - Webstore Hackaton. [Mercado Santi](https://elastic-feynman-9cdfa8.netlify.app/)
+- Clase 15: 
+   - Proyecto: [Color Game](https://flamboyant-mestorf-277e02.netlify.app/)   

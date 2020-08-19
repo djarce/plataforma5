@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500&display=swap");
+
+body {
+  background-color: #232323;
+  margin: 0 auto;
+  font-family: "Baloo Tamma 2", cursive;
+}
+
+h1 {
+  color: #ffffff;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 400;
+  margin: 0;
+}
+
+button {
+  background-color: #ffffff;
+  border: none;
+  outline: none;
+  color: #ee22ee;
+  padding: 6px;
+  text-align: center;
+  align-items: flex-start;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#colorDisplay {
+  font-weight: 500;
+  font-size: larger;
+  display: block;
+}
+
+#message {
+  display: inline-block;
+  color: #000000;
+  margin-right: 12%;
+}
+
+#stripe {
+  background-color: #ffffff;
+  height: 30px;
+  text-align: center;
+}
+
+#reset {
+  margin-left: 27%;
+  float: left;
+}
+
+.hard {
+  margin-right: 16%;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 10vh;
+}
+
+.square {
+  float: left;
+  width: 30%;
+  height: 0;
+  padding-bottom: 30%;
+  background-color: #888888;
+  margin: 1%;
+  border-radius: 50%;
+}
+
+.selected {
+  background-color: #ee22ee;
+  color: #ffffff;
+}
+
+@media only screen and (max-width: 425px) {
+  #reset {
+    margin-left: 10%;
+  }
+
+  #message {
+    margin-right: 6%;
+  }
+
+  #hard {
+    margin-right: 0%;
+  }
+}
