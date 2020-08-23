@@ -17,3 +17,5 @@ ___
    - Webstore Hackaton. [Mercado Santi](https://elastic-feynman-9cdfa8.netlify.app/)
 - Clase 15: 
    - Proyecto: [Color Game](https://flamboyant-mestorf-277e02.netlify.app/)   
+- Clase 17: 
+   - Proyecto: [To Do List](https://heuristic-tereshkova-10c64b.netlify.app/)
