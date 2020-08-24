@@ -19,3 +19,6 @@ ___
    - Proyecto: [Color Game](https://flamboyant-mestorf-277e02.netlify.app/)   
 - Clase 17: 
    - Proyecto: [To Do List](https://heuristic-tereshkova-10c64b.netlify.app/)
+- Clase 18:
+   - Random Jokes: [Chuck Norris](https://trusting-kalam-415baf.netlify.app/)
+   - Proyecto: [Weather Channel](https://brave-cray-5a6088.netlify.app/)

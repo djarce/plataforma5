@@ -1,0 +1,31 @@
+body {
+  background-color: #4422ff;
+}
+button {
+  border: 2px solid #3c0861;
+  color: #ffffff;
+  background-color: #aa22ff;
+  width: 6rem;
+  height: 2rem;
+  outline: none;
+  transition-duration: 0.5s;
+  margin: 5px;
+}
+button:hover {
+  color: #aa22ff;
+  background-color: #ffffff;
+}
+h2 {
+  text-align: center;
+  padding: 10px;
+  border: 2px black dashed;
+  width: 60vw;
+  margin: 0 auto;
+}
+img {
+  width: 25%;
+  height: auto;
+}
+#container {
+  text-align: center;
+}
